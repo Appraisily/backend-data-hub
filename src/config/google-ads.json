@@ -1,0 +1,6 @@
+{
+  "developer_token": "your-developer-token",
+  "client_id": "your-oauth2-client-id",
+  "client_secret": "your-oauth2-client-secret",
+  "refresh_token": "your-refresh-token"
+}
